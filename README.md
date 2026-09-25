@@ -5,6 +5,45 @@
 A small library of ready-to-run `.bas` programs for the **Naive BASIC** interpreter.
 The same sources can also be used as examples and input programs for **Naive BASIC bas2apk / NaiveWORK** when building standalone Android APKs.
 
+## Screenshots / Скриншоты
+
+### Three Talismans / Три талисмана
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-10-43-320_com.naivebasic.jpg" width="100%"><br><sub>Swamp / Болото</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-11-34-862_com.naivebasic.jpg" width="100%"><br><sub>Village / Деревня</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-12-07-259_com.naivebasic.jpg" width="100%"><br><sub>Ending / Финал</sub></td>
+</tr>
+</table>
+
+### Code → result / Код → результат
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005924.png" width="48%"><br><sub>Gradient source / Исходник градиента</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005825.png" width="48%"><br><sub>256-colour gradient / 256-цветный градиент</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005944.png" width="48%"><br><sub>Character-set source / Исходник таблицы символов</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005850.png" width="48%"><br><sub>Character set / Таблица символов</sub></td>
+</tr>
+</table>
+
+### Graphics and system data / Графика и системные данные
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010202.png" width="72%"><br><sub>Graphics demo / Графический пример</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010459.png" width="72%"><br><sub>Colour graphics / Цветная графика</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010851.png" width="100%"><br><sub>TIME$ and DATE$ / TIME$ и DATE$</sub></td>
+</tr>
+</table>
+
+The repository contains more screenshots in `docs/images/`; the gallery above is only a compact selection.
+
+В `docs/images/` находятся и другие скриншоты; выше показана только компактная подборка.
+
 ## Contents
 
 ### Games
