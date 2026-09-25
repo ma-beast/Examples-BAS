@@ -1,3 +1,9 @@
+<a id="top"></a>
+
+[English](#english) | [Русский](#russian)
+
+<a id="english"></a>
+
 # Examples-BAS
 
 **Games, music and test programs for Naive BASIC 1.0**
@@ -5,44 +11,42 @@
 A small library of ready-to-run `.bas` programs for the **Naive BASIC** interpreter.
 The same sources can also be used as examples and input programs for **Naive BASIC bas2apk / NaiveWORK** when building standalone Android APKs.
 
-## Screenshots / Скриншоты
+## Screenshots
 
-### Three Talismans / Три талисмана
+### Three Talismans
 
 <table>
 <tr>
-<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-10-43-320_com.naivebasic.jpg" width="100%"><br><sub>Swamp / Болото</sub></td>
-<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-11-34-862_com.naivebasic.jpg" width="100%"><br><sub>Village / Деревня</sub></td>
-<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-12-07-259_com.naivebasic.jpg" width="100%"><br><sub>Ending / Финал</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-10-43-320_com.naivebasic.jpg" width="100%"><br><sub>Swamp</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-11-34-862_com.naivebasic.jpg" width="100%"><br><sub>Village</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_2026-09-25-21-12-07-259_com.naivebasic.jpg" width="100%"><br><sub>Ending</sub></td>
 </tr>
 </table>
 
-### Code → result / Код → результат
+### Code → result
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005924.png" width="48%"><br><sub>Gradient source / Исходник градиента</sub></td>
-<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005825.png" width="48%"><br><sub>256-colour gradient / 256-цветный градиент</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005924.png" width="48%"><br><sub>Gradient source</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005825.png" width="48%"><br><sub>256-colour gradient</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005944.png" width="48%"><br><sub>Character-set source / Исходник таблицы символов</sub></td>
-<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005850.png" width="48%"><br><sub>Character set / Таблица символов</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005944.png" width="48%"><br><sub>Character-set source</sub></td>
+<td width="50%" align="center"><img src="docs/images/Screenshot_20260911-005850.png" width="48%"><br><sub>Character set</sub></td>
 </tr>
 </table>
 
-### Graphics and system data / Графика и системные данные
+### Graphics and system data
 
 <table>
 <tr>
-<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010202.png" width="72%"><br><sub>Graphics demo / Графический пример</sub></td>
-<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010459.png" width="72%"><br><sub>Colour graphics / Цветная графика</sub></td>
-<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010851.png" width="100%"><br><sub>TIME$ and DATE$ / TIME$ и DATE$</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010202.png" width="72%"><br><sub>Graphics demo</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010459.png" width="72%"><br><sub>Colour graphics</sub></td>
+<td width="33%" align="center"><img src="docs/images/Screenshot_20260911-010851.png" width="100%"><br><sub>TIME$ and DATE$</sub></td>
 </tr>
 </table>
 
 The repository contains more screenshots in `docs/images/`; the gallery above is only a compact selection.
-
-В `docs/images/` находятся и другие скриншоты; выше показана только компактная подборка.
 
 ## Contents
 
@@ -75,7 +79,11 @@ Download a `.bas` file and open/copy it into Naive BASIC 1.0, or use the same so
 
 The files are kept as working examples rather than rewritten showcase versions. Their original filenames are intentionally preserved.
 
+[Русский](#russian) | [↑ Top](#top)
+
 ---
+
+<a id="russian"></a>
 
 # Примеры BASIC
 
@@ -83,6 +91,10 @@ The files are kept as working examples rather than rewritten showcase versions. 
 
 Это небольшая библиотека готовых `.bas`-программ для запуска в интерпретаторе **Naive BASIC**.
 Те же исходники можно использовать как примеры и готовые программы для **Naive BASIC bas2apk / NaiveWORK**, превращая их в самостоятельные Android APK.
+
+## Скриншоты
+
+Галерея находится в английской части README и использует те же реальные программы: **[перейти к скриншотам](#screenshots)**. Другие скриншоты сохранены в `docs/images/`.
 
 ## Содержимое
 
@@ -114,3 +126,5 @@ The files are kept as working examples rather than rewritten showcase versions. 
 Скачайте нужный `.bas` и откройте/скопируйте его в Naive BASIC 1.0. Тот же исходник можно использовать как входную программу для Naive BASIC bas2apk / NaiveWORK.
 
 Это именно рабочие примеры, а не переписанные специально для витрины версии. Поэтому исходные имена файлов намеренно сохранены.
+
+[English](#english) | [↑ Наверх](#top)
